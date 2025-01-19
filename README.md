@@ -20,3 +20,5 @@ There were quite a few case questions we had to answer here are a few
 3. *The NBA would like to preemptively create a promotional plan for the new team you selected above. This included propose a team mascot, team colors and why those colors?*
 4. *Despite the NBA not being an inherently global brand, one executive wants to explore the possibility of growing a fanbase for the new team in an international market. Select a country you recommend they target and explain why this market could be a successful endeavor for the NBA.*
 
+Find the dashboard [here](https://public.tableau.com/shared/WTHBPJK56?:display_count=n&:origin=viz_share_link)
+
