@@ -1,6 +1,6 @@
 # Datathon UMD
 
-I was a part of the team 'Dataholics' and am proud to say that we were one of the 6 finalists of the datathon.
+We were team 'Dataholics' and we are proud to say that we were one of the 6 finalists of the datathon.
 
 ## What was datathon 2024?
 The 2024 UMD Datathon was organized in collaboration with Deloitte, with almost 400 students from UMD and American University's Kogod School of Business forming 53 teams. This competition was a platform for us to demonstrate our problem solving, analytics, data visualization, and presentation abilities as we vied to propose a city for a new NBA team, complete with a selected sponsor, mascot, and international partnership.
